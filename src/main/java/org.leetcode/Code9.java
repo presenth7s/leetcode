@@ -2,7 +2,7 @@ package src.main.java.org.leetcode;
 
 public class Code9 {
     public static void main(String[] args) {
-        System.out.println(123 % 10);
+        System.out.println(isPalindrome(123));
     }
 
     public static boolean isPalindrome(int x) {
